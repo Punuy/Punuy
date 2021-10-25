@@ -1,5 +1,1 @@
-### Hi there 👋
-
-![Punuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Punuy&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Punuy&layout=compact)
+![Punuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Punuy&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Punuy&layout=compact)
