@@ -2,3 +2,5 @@
 Arduino = Arduino Project
 
 Disbot = Discord Bot
+
+no more python. love u c
